@@ -64,5 +64,103 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-diningco-co-uk is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://diningco.co.uk/
+DiningCo is a UK‑based online restaurant reservation and table‑booking platform that connects diners with a wide range of restaurants across the United Kingdom. The service allows users to search for venues, view menus, read reviews, and secure reservations in real time. DiningCo also offers restaurant partners tools to manage bookings, optimize seating, and integrate with point‑of‑sale systems. Founded to simplify the dining experience, the company provides a modern API for developers to access reservation data, restaurant listings, and customer insights, supporting both web and mobile applications.
+
+**Areas:** Company · Restaurant · Reservations · API · UK
+
+## diningco-co-uk on APIs.io
+
+Everything profiled for diningco-co-uk is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/diningco-co-uk/](https://apis.io/providers/diningco-co-uk/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Dining Co API](https://apis.io/apis/diningco-co-uk/dining-co-api/) — Tables catalog API for Dining Co, providing product browsing, search and filter via MCP tools.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Diningco Co Uk Agentic Access](https://apis.io/agentic-access/diningco-co-uk/diningco-co-uk-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [diningco-co-uk API Rules](https://apis.io/rules/diningco-co-uk/diningco-co-uk-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Diningco Co Uk Authentication](https://apis.io/security/diningco-co-uk/diningco-co-uk-authentication/)
+- [Diningco Co Uk Domain Security](https://apis.io/security/diningco-co-uk/diningco-co-uk-domain-security/)
+- [Diningco Co Uk Vulnerability Disclosure](https://apis.io/security/diningco-co-uk/diningco-co-uk-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://diningco.co.uk/)
+- [Documentation](https://diningco.co.uk/guides/how-to-choose-bar-tables)
+- [Security](https://diningco.co.uk/terms)
+- [Terms of service](https://diningco.co.uk/legal/terms)
+- [Privacy policy](https://diningco.co.uk/legal/privacy)
+
+## API Evangelist rating
+
+**Kin Score 27.8** — thin · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 61.7 |
+| Contract quality | 0.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 21.4 |
+| Access clarity | 21.1 |
+
+**Agent readiness 15.7** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 30.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/diningco-co-uk/](https://apis.io/providers/diningco-co-uk/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for diningco-co-uk: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/diningco-co-uk/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
